@@ -54,7 +54,7 @@ R$ 0,75 por kWh
 
 ▶️ Como executar
 1. Clone o repositório
-git clone URL_DO_SEU_REPOSITORIO
+git clone https://github.com/DiegoSoutoFonseca/consumo-eletrico
 
 2. Acesse a pasta
 cd consumo-energia
